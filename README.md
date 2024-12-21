@@ -1,6 +1,6 @@
 # 🌟 SAE-14 : Projet de Site Web Inspiré de Brawl Stars 🌟
 
-Ce projet s'inscrit dans le cadre de la SAE-14 et consiste en la réalisation d'un site web inspiré de l'univers de Brawl Stars. 🎮 Il présente des informations sur les brawlers, les différents modes de jeu et les actualités autour du jeu, tout en mettant en avant un design créatif et moderne. ✨
+Ce projet s'inscrit dans le cadre de la SAE-14 et consiste en la réalisation d'un site web. Ce site présente des informations sur les brawlers, les différents modes de jeu et les actualités autour du jeu, tout en mettant en avant un design créatif et moderne. ✨
 
 ## 🚀 Fonctionnalités Principales
 
@@ -32,14 +32,10 @@ Ce projet s'inscrit dans le cadre de la SAE-14 et consiste en la réalisation d'
 - **style.css** : Feuille de style principale.  
 - **Assets** : Dossier contenant les images et logos.  
 
-## 🔗 Aperçu
-
-Visitez le site via ce lien : [SAE-14 sur GitHub Pages](https://github.com/username/repository-name).  
-
 ## ✍️ Auteur
 
 **Hamza Raif YAVUZ**  
-Étudiant passionné de développement web et créateur de contenus originaux. 🌟
+Étudiant en 1ère année de RT 🌟
 
 ---
-Merci de votre intérêt pour ce projet ! Si vous avez des suggestions ou des questions, n'hésitez pas à me contacter. 💌
+Merci de votre intérêt pour ce projet !
